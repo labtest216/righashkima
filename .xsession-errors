@@ -1,0 +1,8 @@
+Xsession: X session started for ethos at Tue Apr  2 17:31:29 CDT 2019
+run-parts: failed to stat component /etc/X11/Xsession.d/10fglrx: No such file or directory
+localuser:ethos being added to access control list
+Unable to create /home/ethos/.dbus/session-bus
+** Message: main.vala:99: Session is LXDE
+** Message: main.vala:100: DE is LXDE
+** Message: main.vala:131: log directory: /home/ethos/.cache/lxsession/LXDE
+** Message: main.vala:132: log path: /home/ethos/.cache/lxsession/LXDE/run.log

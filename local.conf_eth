@@ -1,0 +1,61 @@
+maxgputemp 82
+stratumproxy enabled
+proxywallet 0xa44421f0d94a3baf6ed1a2ada4fa2794efbff6c7
+proxypool1 eu1.ethermine.org:4444
+proxypool2 asia1.ethermine.org:4444
+flags --cl-global-work 8192 --farm-recheck 200
+
+
+# bit2c eth addr    =    0xa44421f0d94a3baf6ed1a2ada4fa2794efbff6c7
+# excodos eth addr  =    0x84D111928e8D625c8d26dEB94bEAC129693d1cf1
+
+
+globalfan 60
+globalcore 1750
+globalmem 4400
+globalpowertune 115
+autoreboot true
+
+#cor 4bddd4 1750 1750 1750 1750 1750 1750 1750 1750
+#mem 4bddd4 4400 4400 4400 4400 4400 4400 4400 4400  
+#pwr 4bddd4 100 100 100 100 100 100 100 100
+# vlt 4bddd4 0 1118 0 0 1118
+
+
+#---------------------------------
+#----ETH--Test--4x1070ti--msi---#
+#---------------------------------
+#Error1:	09/02/2018 Power shut down from 8:00 to 16:00 (8h)
+#Error2:	10/02/2018 One GPU fail- New OC configure (power up to 115W)
+#StartBal:	~0.05
+#StopBal:	~0.11
+#Bal:		~0.06 (6%)
+#---------------------------------
+#Start:		~21:00 08/02/2018
+#Stop:		~21:00 14/02/2018
+#Time:		~6 Days include errors
+#---------------------------------
+#StartElec:	~53$
+#StopElec:	~65$
+#Elec:		~10$
+#---------------------------------
+#PowerStart:	~620W
+#PowerStop:	~600W
+#---------------------------------
+#RigStartHash:  ~125
+#RigStopHash:	~125
+#RigAvgHash:	~125
+#---------------------------------
+#PoolStartAvgHash: 
+#PoolStopAvgHash:  	
+#---------------------------------
+#NetMinHash:	
+#NetMaxHash:	
+#NetAvgHash	
+#---------------------------------
+#NetMinDif:	
+#NetMaxDif:	
+#NetAvgDif:	
+#---------------------------------
+
+

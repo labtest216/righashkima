@@ -1,0 +1,76 @@
+
+defunct:                                  0
+off:                                      0
+allowed:                                  1
+overheat:                                 0
+pool_info:                                stratumproxy enabled
+                                          proxywallet 0x401b5e8AB1Cd05BCBE9080C982fcff34A97e0b8D
+                                          proxypool1 eu1-etc.ethermine.org:4444 
+                                          proxypool2 us1-etc.ethermine.org:14444
+pool:                                     eu1-etc.ethermine.org:4444
+miner_version:                            0.13.0rc1
+rx_kbps:                                  0.13
+tx_kbps:                                  0.10
+kernel:                                   4.8.17-ethos49
+boot_mode:                                uefi
+uptime:                                   19283
+mac:                                      7085c24bddd4
+hostname:                                 4bddd4
+rack_loc:                                 
+ip:                                       10.0.0.53
+manu:                                     ASRock
+mobo:                                     H110 Pro BTC+
+lan_chip:                                 Intel Corporation Ethernet Connection (2) I219-V (rev 31)
+load:                                     0.6
+ram:                                      7
+cpu_temp:                                 30
+cpu_name:                                 2 x Intel(R) Celeron(R) CPU G3930 @ 2.90GHz
+rofs:                                     59
+drive_name:                               KINGSTON SV300S37A120G 50026B766700AB8B
+freespace:                                1.9
+temp:                                     52 50 46 45
+version:                                  1.2.9
+miner_secs:                               19221
+adl_error:                                
+proxy_problem:                            working
+updating:                                 0
+connected_displays:                       1920x1080
+resolution:                               1920 1080
+gethelp:                                  
+config_status:                            singlerig
+send_remote:                              
+autorebooted:                             0
+status:                                   120.8 hash: miner active
+driver:                                   nvidia
+selected_gpus:                            
+crashed_gpus:                             
+gpus:                                     4
+fanrpm:                                   2700 2700 2700 2700
+fanpercent:                               60 60 60 60
+hash:                                     120.84
+miner:                                    ethminer
+miner_hashes:                             30.21 30.21 30.21 30.21
+models:                                   06 GP104 GeForce GTX 1070 Ti 86.04.85.00.9C
+                                          07 GP104 GeForce GTX 1070 Ti 86.04.85.00.9C
+                                          0a GP104 GeForce GTX 1070 Ti 86.04.85.00.9C
+                                          0b GP104 GeForce GTX 1070 Ti 86.04.85.00.9C
+bioses:                                   86.04.85.00.9C 86.04.85.00.9C 86.04.85.00.9C 86.04.85.00.9C
+default_core:                             1911 1911 1911 1911
+default_mem:                              3802 3802 3802 3802
+vramsize:                                 8 8 8 8
+core:                                     1746 1746 1784 1784
+mem:                                      4248 4248 4248 4248
+memstates:                                1 1 1 1
+meminfo:                                  GPU0:06:00.0:GeForce GTX 1070 Ti:86.04.85.00.9C:Unknown
+                                          GPU1:07:00.0:GeForce GTX 1070 Ti:86.04.85.00.9C:Unknown
+                                          GPU2:0A:00.0:GeForce GTX 1070 Ti:86.04.85.00.9C:Unknown
+                                          GPU3:0B:00.0:GeForce GTX 1070 Ti:86.04.85.00.9C:Unknown
+voltage:                                  0.00 0.00 0.00 0.00
+nvidia_error:                             
+watts:                                    118 120 119 120
+watt_min:                                 90 90 90 90
+watt_max:                                 240 240 240 240
+overheatedgpu:                            
+throttled:                                
+powertune:                                2 2 2 2
+

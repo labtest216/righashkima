@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=
+Exec=unzip %f
+Categories=Other;
+NoDisplay=true
+MimeType=application/zip
+Terminal=false

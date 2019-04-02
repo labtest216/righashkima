@@ -1,0 +1,9 @@
+{
+    "NotificationAddr": "eshyazalame@gmail.com", 
+    "NotificationEnable": "true", 
+    "NowMiningCoin": "ETH", 
+    "NumOfGpus": "6", 
+    "RigOffWhenConnectionFail": "true", 
+    "RigResetWhenGpuFail": "true", 
+    "ScriptEnable": "False"
+}

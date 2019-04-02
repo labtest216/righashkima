@@ -1,0 +1,7 @@
+[Desktop Entry]
+Comment=
+Terminal=false
+Name=Edit local.conf
+Exec=/usr/bin/leafpad /home/ethos/local.conf
+Type=Application
+Icon=/usr/share/pixmaps/leafpad.xpm

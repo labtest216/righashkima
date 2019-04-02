@@ -1,0 +1,6 @@
+2019/04/02-17:34:06.426 16888 Reusing MANIFEST /home/ethos/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2019/04/02-17:34:06.426 16888 Recovering log #36
+2019/04/02-17:34:06.429 16888 Reusing old log /home/ethos/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000036.log 
+2019/04/02-17:34:19.213 29743 Level-0 table #40: started
+2019/04/02-17:34:19.279 29743 Level-0 table #40: 5373506 bytes OK
+2019/04/02-17:34:19.280 29743 Delete type=0 #36

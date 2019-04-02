@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<!DOCTYPE Menu
+  PUBLIC '-//freedesktop//DTD Menu 1.0//EN'
+  'http://standards.freedesktop.org/menu-spec/menu-1.0.dtd'>
+<Menu>
+	<Name>Applications</Name>
+	<MergeFile type="parent">/etc/xdg/menus/lxde-applications.menu</MergeFile>
+	<Include>
+		<Filename>statspanel.desktop</Filename>
+		<Filename>knowledgebase.desktop</Filename>
+		<Filename>lxterminal.desktop</Filename>
+		<Filename>edit-local.desktop</Filename>
+		<Filename>edit-remote.desktop</Filename>
+		<Filename>leafpad.desktop</Filename>
+		<Filename>sol.desktop</Filename>
+                <Filename>soft-reboot.desktop</Filename>
+                <Filename>hard-reboot.desktop</Filename>
+                <Filename>shutdown.desktop</Filename>
+	</Include>
+	<Layout>
+		<Merge type="menus"/>
+		<Filename>statspanel.desktop</Filename>
+		<Filename>knowledgebase.desktop</Filename>
+		<Separator/>
+		<Filename>edit-remote.desktop</Filename>
+		<Filename>edit-local.desktop</Filename>
+		<Separator/>
+                <Filename>lxterminal.desktop</Filename>
+                <Filename>leafpad.desktop</Filename>
+		<Filename>sol.desktop</Filename>
+		<Separator/>
+		<Filename>soft-reboot.desktop</Filename>
+		<Filename>hard-reboot.desktop</Filename>
+		<Filename>shutdown.desktop</Filename>
+		<Merge type="files"/>
+	</Layout>
+</Menu>

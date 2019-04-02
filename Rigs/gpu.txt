@@ -1,0 +1,77 @@
+Tue Apr  2 16:33:46 CDT 2019
+
+defunct:                                  0
+off:                                      0
+allowed:                                  1
+overheat:                                 0
+pool_info:                                proxywallet 0xa44421f0d94a3baf6ed1a2ada4fa2794efbff6c7
+                                          proxypool1 eu1.ethermine.org:4444
+                                          proxypool2 asia1.ethermine.org:4444
+pool:                                     eu1.ethermine.org:4444
+miner_version:                            0.14.0.dev2
+flags:                                    --cl-global-work 8192 --farm-recheck 200
+rx_kbps:                                  0.00
+tx_kbps:                                  0.00
+kernel:                                   4.15.12-ethos96
+boot_mode:                                uefi
+uptime:                                   669
+mac:                                      1831bf255868
+hostname:                                 255868
+ip:                                       192.168.14.112
+manu:                                     ASUSTeK
+mobo:                                     B250 MINING EXPERT
+uuid:                                     161b06486fdde09ff3a0c7638832d8fd967d64e1817b6b559591962aee79e0e0
+biosversion:                              0403
+lan_chip:                                 Intel Corporation Ethernet Connection (2) I219-V
+load:                                     0.36
+ram:                                      8
+cpu_temp:                                 30
+cpu_name:                                 2 x Intel(R) Celeron(R) CPU G3930 @ 2.90GHz
+rofs:                                     50
+drive_name:                               KINGSTON SV300S37A120G 50026B766700AB8B
+freespace:                                0.7
+temp:                                     68 53 53 44 48 48
+version:                                  1.3.2
+miner_secs:                               72
+proxy_problem:                            working
+updating:                                 0
+connected_displays:                       1920x1080
+resolution:                               1920 1080
+config_status:                            singlerig
+autorebooted:                             0
+status:                                   89.4 hash: miner active
+acceptance:                               accepted
+driver:                                   nvidia
+crashed_gpus:                             4 5
+gpus:                                     6
+fanrpm:                                   2700 2700 2700 2700 2700 2700
+fanpercent:                               60 60 60 60 60 60
+hash:                                     90.15
+miner:                                    ethminer
+miner_hashes:                             21.71 23.04 23.12 22.28 0 0
+models:                                   01 GP104 GeForce GTX 1070 Ti 86.04.85.00.AB
+                                          08 GP104 GeForce GTX 1070 Ti 86.04.85.00.AB
+                                          0a GP104 GeForce GTX 1070 Ti 86.04.85.00.AB
+                                          0c GP104 GeForce GTX 1070 Ti 86.04.85.00.9C
+                                          0e GP104 GeForce GTX 1070 Ti 86.04.85.00.9C
+                                          0f GP104 GeForce GTX 1070 Ti 86.04.85.00.9C
+bioses:                                   86.04.85.00.AB 86.04.85.00.AB 86.04.85.00.AB 86.04.85.00.9C 86.04.85.00.9C 86.04.85.00.9C
+default_core:                             1911 1911 1911 1911 1911 1911
+default_mem:                              3802 3802 3802 3802 3802 3802
+vramsize:                                 8 8 8 8 8 8
+core:                                     1506 1569 1569 1531 139 139
+mem:                                      4398 4398 4398 4398 405 405
+memstates:                                1 1 1 1 1 1
+meminfo:                                  GPU0:01:00.0:GeForce GTX 1070 Ti:86.04.85.00.AB:Unknown
+                                          GPU1:08:00.0:GeForce GTX 1070 Ti:86.04.85.00.AB:Unknown
+                                          GPU2:0A:00.0:GeForce GTX 1070 Ti:86.04.85.00.AB:Unknown
+                                          GPU3:0C:00.0:GeForce GTX 1070 Ti:86.04.85.00.9C:Unknown
+                                          GPU4:0E:00.0:GeForce GTX 1070 Ti:86.04.85.00.9C:Unknown
+                                          GPU5:0F:00.0:GeForce GTX 1070 Ti:86.04.85.00.9C:Unknown
+voltage:                                  0.00 0.00 0.00 0.00 0.00 0.00
+default_watts:                            180 180 180 180 180 180
+watts:                                    114 114 114 113 9 10
+watt_min:                                 90 90 90 90 90 90
+watt_max:                                 252 252 252 240 240 240
+powertune:                                2 2 2 2 8 8
+

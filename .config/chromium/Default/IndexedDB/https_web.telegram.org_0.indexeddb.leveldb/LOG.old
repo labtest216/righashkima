@@ -1,0 +1,3 @@
+2018/07/16-14:54:50.316 15571 Reusing MANIFEST /home/ethos/.config/chromium/Default/IndexedDB/https_web.telegram.org_0.indexeddb.leveldb/MANIFEST-000001
+2018/07/16-14:54:50.316 15571 Recovering log #100
+2018/07/16-14:54:50.485 15571 Reusing old log /home/ethos/.config/chromium/Default/IndexedDB/https_web.telegram.org_0.indexeddb.leveldb/000100.log 

@@ -1,0 +1,19 @@
+T 1515736968 19*	Now talking on 22#ethosdistro
+T 1515736968 22*	Topic for 22#ethosdistro is: SPAMMING / UNSOLICITED PM-ING RESULTS IN KICK! SUPPORT: RUN 'gethelp' ON RIG, ASK, POST, THEN WAIT!  GUIDES: http://www.ethosdistro.com/kb/
+T 1515736968 22*	Topic for 22#ethosdistro set by 26sling00!~sling00@i.am.sling00.com (24Thu Nov 23 19:12:44 2017)
+T 1515736993 24*	pguima has quit (Remote host closed the connection)
+T 1515736995 23*	blind-e310c4 (~ethos@89-138-29-39.bb.netvision.net.il23) has joined
+T 1515737020 24*	bagbaggins has quit (Quit: Page closed)
+T 1515737056 18<blind-e310c418>	ls
+T 1515737069 24*	ethro has quit (Quit: Mutter: www.mutterirc.com)
+T 1515737080 18<blind-e310c418>	anyone avilable for some noob questions?
+T 1515737128 23*	xt3rnal (adefe621@gateway/web/freenode/ip.173.239.230.3323) has joined
+T 1515737129 18<Ivy_18>	hmm, something i'm missing again, now when trying to apply moded rom it again says adapter not found ... nevertheless what number I tried, I tried sapphire on 3 or 2 (as it should be 2 as third card) but neither 1st nor 2nd card responds on msi bios
+T 1515737146 18<cYnIxX318>	ethro namedisabled hostname
+T 1515737163 18<blind-e310c418>	ls
+T 1515737165 18<Ivy_18>	adapter not found ERROR: 0FL01
+T 1515737169 24*	blind-e310c4 has quit (Client Quit)
+T 1515737178 23*	blind-e310c4 (~ethos@89-138-29-39.bb.netvision.net.il23) has joined
+T 1515737187 18<Ivy_18>	on ls i see the bios original and moded
+T 1515737206 24*	blind-e310c4 has quit (Client Quit)
+T 1515737208 18<cYnIxX318>	Ivy_, if its a dual bios gpu you need to flip the switch.

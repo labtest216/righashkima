@@ -1,0 +1,60 @@
+globalminer ewbf-zcash
+maxgputemp 79
+stratumproxy enabled
+proxywallet t1a3PV1EuRjAwM4tQ4yYuojGomTbLjDNZbW                  
+   
+#FreeWallet:    t1a3PV1EuRjAwM4tQ4yYuojGomTbLjDNZbW
+#Jaxx   :       t1TaAMTE1gMkr5AUmTM6mePz9qsdp4k4cye
+proxypool1 eu1-zcash.flypool.org:3333
+proxypool2 asia1-zcash.flypool.org:13333
+flags --cl-global-work 8192 --farm-recheck 200
+
+globalfan 60
+globalcore 2100
+globalmem 3960
+globalpowertune 105
+
+#cor 4bddd4 1911 1911 1911 1911 1911 1911 1911 1911
+#mem 4bddd4 3900 3900 3900 3900 3900 3900 3900 3900
+#fan 4bddd4 60 60 60 60 60 60 60 60 
+#pwr 4bddd4 105 105 105 105 105 105 105 105
+
+
+#---------------------------------
+#----ZEC--Test--4x1070ti--msi---#
+#---------------------------------
+#Error:		No Error
+#StartBal:	~0.15
+#StopBal:	~0.
+#Bal:		~0. (% zec)
+#---------------------------------
+#Start:		~23:00 25/02/2018
+#Stop:		~21:00 00/00/2018
+#Time:		~ Days
+#---------------------------------
+#StartElec:	~96$
+#StopElec:	~$
+#Elec:		~$
+#---------------------------------
+#PowerStart:	~1200W
+#PowerStop:	~1200W
+#---------------------------------
+#RigStartHash:  ~3730
+#RigStopHash:	~0
+#RigAvgHash:	~0
+#---------------------------------
+#PoolStartAvgHash: M
+#PoolStopAvgHash:  M	
+#---------------------------------
+#NetMinHash:	~M
+#NetMaxHash:	~M
+#NetAvgHash	~M
+#---------------------------------
+#NetMinDif:	~
+#NetMaxDif:	~
+#NetAvgDif:	~
+#---------------------------------
+
+
+
+

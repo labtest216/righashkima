@@ -1,0 +1,5 @@
+@lxpanel --profile LXDE
+@pcmanfm --desktop-off --profile LXDE
+@nitrogen --restore
+@/opt/ethos/sbin/ethos-prelogin 
+@/usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1

@@ -1,0 +1,22 @@
+2019/04/02-17:32:59.835 16883 Reusing MANIFEST /home/ethos/.config/chromium/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001
+2019/04/02-17:32:59.835 16883 Recovering log #3225
+2019/04/02-17:32:59.900 16883 Level-0 table #3228: started
+2019/04/02-17:33:00.037 16883 Level-0 table #3228: 3954231 bytes OK
+2019/04/02-17:33:00.037 16883 Delete type=0 #3225
+2019/04/02-17:33:00.039 17005 Compacting 4@0 + 2@1 files
+2019/04/02-17:33:00.500 17005 Generated table #3230@0: 1 keys, 3953949 bytes
+2019/04/02-17:33:00.501 17005 Generated table #3231@0: 5 keys, 491 bytes
+2019/04/02-17:33:00.501 17005 Compacted 4@0 + 2@1 files => 3954440 bytes
+2019/04/02-17:33:00.504 17005 compacted to: files[ 0 2 1 0 0 0 0 ]
+2019/04/02-17:33:00.504 17005 Delete type=2 #3218
+2019/04/02-17:33:00.504 17005 Delete type=2 #3226
+2019/04/02-17:33:00.505 17005 Delete type=2 #3228
+2019/04/02-17:33:00.505 17005 Delete type=2 #3219
+2019/04/02-17:33:00.505 17005 Delete type=2 #3221
+2019/04/02-17:33:00.505 17005 Delete type=2 #3223
+2019/04/02-17:34:00.806 17005 Level-0 table #3233: started
+2019/04/02-17:34:00.866 17005 Level-0 table #3233: 3954016 bytes OK
+2019/04/02-17:34:00.866 17005 Delete type=0 #3229
+2019/04/02-17:34:52.699 17005 Level-0 table #3235: started
+2019/04/02-17:34:52.765 17005 Level-0 table #3235: 3954226 bytes OK
+2019/04/02-17:34:52.766 17005 Delete type=0 #3232

@@ -1,0 +1,25 @@
+use_xft yes
+xftfont Dejavu Sans:size=13
+xftalpha 1
+no_buffers yes
+own_window yes
+own_window_class Conky
+own_window_type Normal
+own_window_transparent yes
+own_window_hints undecorated,below,sticky,skip_taskbar,skip_pager
+own_window_hints below
+override_utf8_locale
+draw_borders no
+draw_graph_borders no
+draw_outline no
+draw_shades no
+double_buffer yes
+alignment top_left
+gap_x 5
+gap_y 7
+maximum_width 800
+default_color white
+update_interval 6
+total_run_times 0
+TEXT
+${exec /opt/ethos/bin/render-conky}

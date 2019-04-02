@@ -1,0 +1,7 @@
+[Desktop Entry]
+Comment=
+Terminal=false
+Name=Edit remote.conf
+Exec=/usr/bin/leafpad /home/ethos/remote.conf
+Type=Application
+Icon=/usr/share/pixmaps/leafpad.xpm

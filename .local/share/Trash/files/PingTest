@@ -1,0 +1,32 @@
+PING pool-eu.ethosdistro.com (213.32.74.230) 128(156) bytes of data.
+136 bytes from 213.32.74.230: icmp_seq=1 ttl=44 time=76.2 ms
+136 bytes from 213.32.74.230: icmp_seq=2 ttl=44 time=75.7 ms
+136 bytes from 213.32.74.230: icmp_seq=3 ttl=44 time=75.7 ms
+136 bytes from 213.32.74.230: icmp_seq=4 ttl=44 time=76.2 ms
+136 bytes from 213.32.74.230: icmp_seq=5 ttl=44 time=75.8 ms
+
+--- pool-eu.ethosdistro.com ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 75.732/75.979/76.265/0.216 ms
+PING eu1.ethermine.org (91.121.167.111) 128(156) bytes of data.
+136 bytes from ns343130.ip-91-121-167.eu (91.121.167.111): icmp_seq=1 ttl=46 time=81.5 ms
+136 bytes from ns343130.ip-91-121-167.eu (91.121.167.111): icmp_seq=2 ttl=46 time=81.5 ms
+136 bytes from ns343130.ip-91-121-167.eu (91.121.167.111): icmp_seq=3 ttl=46 time=81.1 ms
+136 bytes from ns343130.ip-91-121-167.eu (91.121.167.111): icmp_seq=4 ttl=46 time=82.0 ms
+
+--- eu1.ethermine.org ping statistics ---
+5 packets transmitted, 4 received, 20% packet loss, time 4003ms
+rtt min/avg/max/mdev = 81.152/81.564/82.034/0.469 ms
+PING eu1.ethermine.org (188.165.220.188) 128(156) bytes of data.
+136 bytes from ns312887.ip-188-165-220.eu (188.165.220.188): icmp_seq=1 ttl=46 time=82.0 ms
+136 bytes from ns312887.ip-188-165-220.eu (188.165.220.188): icmp_seq=2 ttl=46 time=81.2 ms
+136 bytes from ns312887.ip-188-165-220.eu (188.165.220.188): icmp_seq=3 ttl=46 time=81.5 ms
+136 bytes from ns312887.ip-188-165-220.eu (188.165.220.188): icmp_seq=4 ttl=46 time=81.5 ms
+136 bytes from ns312887.ip-188-165-220.eu (188.165.220.188): icmp_seq=5 ttl=46 time=81.8 ms
+136 bytes from ns312887.ip-188-165-220.eu (188.165.220.188): icmp_seq=6 ttl=46 time=81.3 ms
+136 bytes from ns312887.ip-188-165-220.eu (188.165.220.188): icmp_seq=7 ttl=46 time=81.3 ms
+136 bytes from ns312887.ip-188-165-220.eu (188.165.220.188): icmp_seq=8 ttl=46 time=81.6 ms
+
+--- eu1.ethermine.org ping statistics ---
+8 packets transmitted, 8 received, 0% packet loss, time 7008ms
+rtt min/avg/max/mdev = 81.252/81.582/82.073/0.459 ms

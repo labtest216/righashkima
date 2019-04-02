@@ -1,0 +1,74 @@
+Tue May 29 16:23:13 CDT 2018
+
+allowed:                                  1
+pool_info:                                proxywallet t1a3PV1EuRjAwM4tQ4yYuojGomTbLjDNZbW
+                                          proxypool1 eu1-zcash.flypool.org:3333
+                                          proxypool2 asia1-zcash.flypool.org:13333
+pool:                                     eu1-zcash.flypool.org:3333
+miner_version:                            0.3.4b
+rx_kbps:                                  0.21
+tx_kbps:                                  0.33
+kernel:                                   4.15.12-ethos83
+boot_mode:                                uefi
+uptime:                                   899437
+mac:                                      7085c24bddd4
+hostname:                                 4bddd4
+ip:                                       10.0.0.60
+manu:                                     ASRock
+mobo:                                     H110 Pro BTC+
+uuid:                                     b95c7ad183adc0df981c6d58e67c405da9f8e54e9720b3aa73ed2fc345c32e2e
+biosversion:                              P1.10
+lan_chip:                                 Intel Corporation Ethernet Connection (2) I219-V (rev 31)
+load:                                     1.63
+ram:                                      7
+cpu_temp:                                 44
+cpu_name:                                 2 x Intel(R) Celeron(R) CPU G3930 @ 2.90GHz
+rofs:                                     156
+drive_name:                               KINGSTON SV300S37A120G 50026B766700AB8B
+freespace:                                1
+temp:                                     64 51 59 60 56 55 53 64
+version:                                  1.3.1
+miner_secs:                               899367
+proxy_problem:                            working
+connected_displays:                       1920x1080
+resolution:                               1920 1080
+config_status:                            singlerig
+status:                                   3591.0 hash: miner active
+acceptance:                               accepted
+driver:                                   nvidia
+gpus:                                     8
+fanrpm:                                   2700 2700 2700 2700 2700 2700 2700 2700
+fanpercent:                               60 60 60 60 60 60 60 60
+hash:                                     3591
+miner:                                    ewbf-zcash
+miner_hashes:                             469.00 423.00 461.00 462.00 430.00 443.00 439.00 464.00
+models:                                   02 GP104 GeForce GTX 1070 Ti 86.04.85.00.AB
+                                          05 GP104 GeForce GTX 1070 Ti 86.04.85.00.9C
+                                          06 GP104 GeForce GTX 1070 Ti 86.04.85.00.AB
+                                          07 GP104 GeForce GTX 1070 Ti 86.04.85.00.AB
+                                          08 GP104 GeForce GTX 1070 Ti 86.04.85.00.9C
+                                          09 GP104 GeForce GTX 1070 Ti 86.04.85.00.9C
+                                          0a GP104 GeForce GTX 1070 Ti 86.04.85.00.9C
+                                          0b GP104 GeForce GTX 1070 Ti 86.04.85.00.AB
+bioses:                                   86.04.85.00.AB 86.04.85.00.9C 86.04.85.00.AB 86.04.85.00.AB 86.04.85.00.9C 86.04.85.00.9C 86.04.85.00.9C 86.04.85.00.AB
+default_core:                             1911 1911 1911 1911 1911 1911 1911 1911
+default_mem:                              3802 3802 3802 3802 3802 3802 3802 3802
+vramsize:                                 8 8 8 8 8 8 8 8
+core:                                     1683 1404 1683 1721 1480 1531 1518 1683
+mem:                                      3969 3969 3969 3969 3969 3969 3969 3969
+memstates:                                1 1 1 1 1 1 1 1
+meminfo:                                  GPU0:02:00.0:GeForce GTX 1070 Ti:86.04.85.00.AB:Unknown
+                                          GPU1:05:00.0:GeForce GTX 1070 Ti:86.04.85.00.9C:Unknown
+                                          GPU2:06:00.0:GeForce GTX 1070 Ti:86.04.85.00.AB:Unknown
+                                          GPU3:07:00.0:GeForce GTX 1070 Ti:86.04.85.00.AB:Unknown
+                                          GPU4:08:00.0:GeForce GTX 1070 Ti:86.04.85.00.9C:Unknown
+                                          GPU5:09:00.0:GeForce GTX 1070 Ti:86.04.85.00.9C:Unknown
+                                          GPU6:0A:00.0:GeForce GTX 1070 Ti:86.04.85.00.9C:Unknown
+                                          GPU7:0B:00.0:GeForce GTX 1070 Ti:86.04.85.00.AB:Unknown
+voltage:                                  0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+default_watts:                            180 180 180 180 180 180 180 180
+watts:                                    106 104 105 106 103 105 106 105
+watt_min:                                 90 90 90 90 90 90 90 90
+watt_max:                                 252 240 252 252 240 240 240 252
+powertune:                                2 2 2 2 2 2 2 2
+

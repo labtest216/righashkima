@@ -1,0 +1,61 @@
+maxgputemp 80
+stratumproxy enabled
+
+proxywallet 0xeb6c0785b10fa52895f1608b33c5dd82b2f8701e
+proxypool1 eu1-etc.ethermine.org:4444 
+proxypool2 us1-etc.ethermine.org:14444
+flags --cl-global-work 8192 --farm-recheck 200
+
+#ETC-Exsodus: 0x401b5e8AB1Cd05BCBE9080C982fcff34A97e0b8D
+#ETC-Bit2C:   0xeb6c0785b10fa52895f1608b33c5dd82b2f8701e
+globalfan 60
+globalcore 1920
+globalmem 4050
+globalpowertune 110
+autoreboot true
+
+#cor 4bddd4 1750 1750 1750 1750 1750 1750 1750 1750
+#mem 4bddd4 4400 4400 4400 4400 4400 4400 4400 4400  
+#pwr 4bddd4 100 100 100 100 100 100 100 100
+# vlt 4bddd4 0 1118 0 0 1118
+
+
+#---------------------------------
+#----ETC--Test--4x1070ti--msi---#
+#---------------------------------
+#Error1:	GPU-1 fall 14:35 02/17/2018 new OC configure 5H	
+#Error2:	GPU-2 fall 10:35 02/18/2018 new OC configure 5H
+#Error3:	GPU-2 fall 08:00 02/20/2018 new OC configure 5H
+#Error4:	00:40 02/23/2018 update from 4 gpu to 8 gpu  4H
+#StartBal:	~0.0
+#StopBal:	~3.11
+#Bal:		~3.11 (%)
+#---------------------------------
+#Start:		~18:00 14/02/2018
+#Stop:		~22:30 25/02/2018
+#Time:		~11 Days
+#---------------------------------
+#StartElec:	~65
+#StopElec:	~96$
+#Elec:		~31$
+#---------------------------------
+#PowerStart:	~620W
+#PowerStop:	~1300W
+#---------------------------------
+#RigStartHash:  ~
+#RigStopHash:	~
+#RigAvgHash:	~
+#---------------------------------
+#PoolStartAvgHash: 
+#PoolStopAvgHash:  	
+#---------------------------------
+#NetMinHash:	
+#NetMaxHash:	
+#NetAvgHash	
+#---------------------------------
+#NetMinDif:	
+#NetMaxDif:	
+#NetAvgDif:	
+#---------------------------------
+
+

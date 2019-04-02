@@ -1,0 +1,30 @@
+Mon Mar 26 13:14:27 CDT 2018
+
+allowed:                                  1
+pool_info:                                proxywallet 84D111928e8D625c8d26dEB94bEAC129693d1cf1
+                                          proxypool1 eu1.ethermine.org:4444
+                                          proxypool2 eu1.ethermine.org:14444
+pool:                                     eu1.ethermine.org:4444
+flags:                                    --cl-global-work 8192 --farm-recheck 200
+rx_kbps:                                  0.00
+tx_kbps:                                  0.00
+kernel:                                   4.8.17-ethos49
+boot_mode:                                bios
+uptime:                                   696
+mac:                                      001d7da193ee
+hostname:                                 a193ee
+ip:                                       10.42.0.52
+manu:                                     Unknow
+load:                                     1.97
+ram:                                      4
+rofs:                                     259
+drive_name:                               Hitachi HTS545032B9A300 100226PB5C061DCKX18T
+freespace:                                0.6
+version:                                  1.3.0
+connected_displays:                       1024x768
+resolution:                               1024 768
+status:                                   starting ethos: finishing boot process
+acceptance:                               accepted
+driver:                                   nvidia
+miner:                                    ethminer
+
